@@ -67,7 +67,7 @@
 = Мнемосхема
 
 #figure(
-  image("files/mnemo/Мнемосхема.drawio.svg"),
+  image("files/mnemo/Мнемосхема.svg"),
   caption: "Мнемосхема."
 )
 
